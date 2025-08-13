@@ -4,9 +4,9 @@
 <h1>Hi, I'm Matheus 👋</h1>
 <h3>Data Scientist, RPA Guy & Technology Enthusiast — automating life so I can nap more 😴</h3>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MatheusBigg/MatheusBigg/main/Run%20Accelerate%20GIF%20by%20Xbox.gif" alt="Run Accelerate GIF" width="300"/>
-  <img src="https://raw.githubusercontent.com/MatheusBigg/MatheusBigg/main/Spider-Man%202%20Dancing%20GIF%20by%20PlayStation.gif" alt="Spider-Man Dancing GIF" width="300"/>
-  <img src="https://raw.githubusercontent.com/MatheusBigg/MatheusBigg/main/miyazaki.jpg" alt="Spider-Man Dancing GIF" width="300"/>
+  <img src="https://raw.githubusercontent.com/MatheusBigg/MatheusBigg/main/Run%20Accelerate%20GIF%20by%20Xbox.gif" alt="Run Accelerate GIF" width="200"/>
+  <img src="https://raw.githubusercontent.com/MatheusBigg/MatheusBigg/main/Spider-Man%202%20Dancing%20GIF%20by%20PlayStation.gif" alt="Spider-Man Dancing GIF" width="200"/>
+  <img src="https://raw.githubusercontent.com/MatheusBigg/MatheusBigg/main/miyazaki.jpg" alt="Spider-Man Dancing GIF" width="200"/>
 </div>
 </div>
 <br>
@@ -34,7 +34,6 @@
 <h3 align="center">🤖 RPA & Automation</h3><div align="center">
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,selenium&perline=8"/>
-<span style="font-size:14px; background-color:#f5f5f5; padding:4px 8px; border-radius:6px; font-family:monospace;"> PyAutoGUI </span>
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Alteryx_logo.svg" height="45"/>
 </div>
 
@@ -45,7 +44,7 @@
 
 <h3 align="center">🗄 Data Engineering, 🛠 DevOps, ⚗️ Testing & Tools</h3><div align="center">
 <div align="center" style="background-color:#1e1e1e;padding:10px;border-radius:8px;display:inline-block;">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ13tzYgefD_IwDRmFS1sbV5xGGGubryBhTtA&s" height="50" style="border-radius:50%; object-fit:cover;"/>
+<img src="https://raw.githubusercontent.com/MatheusBigg/MatheusBigg/main/databricks-logo.png" height="50" style="border-radius:10px;"/>
 <img src="https://skillicons.dev/icons?i=docker,git,bash,linux,azure,c,arduino,raspberrypi&perline=8"/>
 </div>
 <br>
