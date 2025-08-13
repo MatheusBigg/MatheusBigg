@@ -14,7 +14,7 @@
 
 ## 💫 About Me
 - 🔭 Currently building: **Portfolio & Backend magic**
-- 🌱 Learning: **PyTorch, FastAPI & Go** (because I like pain)
+- 🌱 Learning: **PyTorch, FastAPI & Go** (because I thrive when challenged)
 - ⚡ Fun fact: *I DO NOT debug my own jokes before telling them*
 
 - 🌐 Socials<br><br>
