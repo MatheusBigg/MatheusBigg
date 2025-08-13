@@ -67,8 +67,8 @@
 <div align="center">
 <img src="https://github-trophies.vercel.app/?username=MatheusBigg&theme=dracula&no-frame=false&no-bg=false&margin-w=4"/>
 </div>
-
----
+<br>
+<br>
 
 <h2 align="left">⚙️ Projects/Repositories Naming (🚧 in development 🚧)</h2>
 
@@ -76,52 +76,52 @@
 
   <div style="width: 300px; background-color:#f0f0f0; padding:15px; border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <h3 style="color:#800020; margin-top:0;">AI</h3>
-    <p style="font-size:14px; margin: 0 0 10px;">Projetos de Inteligência Artificial</p>
+    <p style="font-size:14px; margin: 0 0 10px;">Artificial Inteligence Projects</p>
     <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-      <li style="margin-bottom: 5px;"><strong><code>agent_</code></strong>: Agentes autônomos e bots.</li>
-      <li style="margin-bottom: 5px;"><strong><code>nlp_</code></strong>: Processamento de Linguagem Natural.</li>
-      <li style="margin-bottom: 5px;"><strong><code>chatbot_</code></strong>: Chatbots e assistentes virtuais.</li>
+      <li style="margin-bottom: 5px;"><strong><code>agent_</code></strong>: Autonomous agents and Bots</li>
+      <li style="margin-bottom: 5px;"><strong><code>nlp_</code></strong>: Natural Language Processing</li>
+      <li style="margin-bottom: 5px;"><strong><code>chatbot_</code></strong>: Chatbots and Virtual Assistants</li>
       </ul>
   </div>
 
   <div style="width: 300px; background-color:#f0f0f0; padding:15px; border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <h3 style="color:purple; margin-top:0;">Blockchain</h3>
-    <p style="font-size:14px; margin: 0 0 10px;">Projetos relacionados a tecnologia blockchain</p>
+    <p style="font-size:14px; margin: 0 0 10px;">Blockchain related projects</p>
     <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-      <li style="margin-bottom: 5px;"><strong><code>smartcontracts_</code></strong>: Contratos inteligentes.</li>
-      <li style="margin-bottom: 5px;"><strong><code>crypto_</code></strong>: Criptomoedas.</li>
-      <li style="margin-bottom: 5px;"><strong><code>wallet_</code></strong>: Carteiras digitais e chaves.</li>
+      <li style="margin-bottom: 5px;"><strong><code>smartcontracts_</code></strong>: Smart Contracts</li>
+      <li style="margin-bottom: 5px;"><strong><code>crypto_</code></strong>: Cryptos</li>
+      <li style="margin-bottom: 5px;"><strong><code>wallet_</code></strong>: Wallets and Keys</li>
       </ul>
   </div>
   
   <div style="width: 300px; background-color:#f0f0f0; padding:15px; border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <h3 style="color:blue; margin-top:0;">Data</h3>
-    <p style="font-size:14px; margin: 0 0 10px;">Análise, manipulação e engenharia de dados</p>
+    <p style="font-size:14px; margin: 0 0 10px;">Analysis, manipultaion and data engineering</p>
     <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-      <li style="margin-bottom: 5px;"><strong><code>dataanalysis_</code></strong>: Análise de dados.</li>
-      <li style="margin-bottom: 5px;"><strong><code>ml_</code></strong>: Machine Learning.</li>
-      <li style="margin-bottom: 5px;"><strong><code>dl_</code></strong>: Deep Learning.</li>
+      <li style="margin-bottom: 5px;"><strong><code>dataanalysis_</code></strong>: Data Analysis</li>
+      <li style="margin-bottom: 5px;"><strong><code>ml_</code></strong>: Machine Learning</li>
+      <li style="margin-bottom: 5px;"><strong><code>dl_</code></strong>: Deep Learning</li>
       </ul>
   </div>
 
   <div style="width: 300px; background-color:#f0f0f0; padding:15px; border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <h3 style="color:#556b2f; margin-top:0;">RPA</h3>
-    <p style="font-size:14px; margin: 0 0 10px;">Ferramentas e scripts para automação</p>
+    <p style="font-size:14px; margin: 0 0 10px;">Tools and scripts for automation</p>
     <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-      <li style="margin-bottom: 5px;"><strong><code>bot_</code></strong>: Bots para automação.</li>
-      <li style="margin-bottom: 5px;"><strong><code>crawler_</code></strong>: Raspadores síncronos.</li>
-      <li style="margin-bottom: 5px;"><strong><code>spider_</code></strong>: Raspadores assíncronos.</li>
-      <li style="margin-bottom: 5px;"><strong><code>script_</code></strong>: Scripts gerais de automação.</li>
+      <li style="margin-bottom: 5px;"><strong><code>bot_</code></strong>: Bots</li>
+      <li style="margin-bottom: 5px;"><strong><code>crawler_</code></strong>: Synchronous Scrappers</li>
+      <li style="margin-bottom: 5px;"><strong><code>spider_</code></strong>: Asynchronous Scrappers</li>
+      <li style="margin-bottom: 5px;"><strong><code>script_</code></strong>: General Scripts</li>
       </ul>
   </div>
   
   <div style="width: 300px; background-color:#f0f0f0; padding:15px; border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <h3 style="color:#008b8b; margin-top:0;">WebDev</h3>
-    <p style="font-size:14px; margin: 0 0 10px;">Desenvolvimento web dividido por camada</p>
+    <p style="font-size:14px; margin: 0 0 10px;">Web Development</p>
     <ul style="list-style-type: none; padding-left: 0; margin: 0;">
-      <li style="margin-bottom: 5px;"><strong><code>backend_</code></strong>: APIs e servidores.</li>
-      <li style="margin-bottom: 5px;"><strong><code>frontend_</code></strong>: Interface de usuário.</li>
-      <li style="margin-bottom: 5px;"><strong><code>fullstack_</code></strong>: Projetos integrados.</li>
+      <li style="margin-bottom: 5px;"><strong><code>backend_</code></strong>: APIs.</li>
+      <li style="margin-bottom: 5px;"><strong><code>frontend_</code></strong>: Frontends</li>
+      <li style="margin-bottom: 5px;"><strong><code>fullstack_</code></strong>: Full WebApps</li>
       </ul>
   </div>
 </div>
